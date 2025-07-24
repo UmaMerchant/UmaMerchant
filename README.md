@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello! I'm Uma Merchant
 
-<!--
-**UmaMerchant/UmaMerchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Certified Software Engineer (GenAI) | Ex-Branch Manager – ICICI Bank
 
-Here are some ideas to get you started:
+I bring 13+ years of leadership in the BFSI sector and now focus on building scalable full stack web apps using React.js, Node.js, MongoDB, REST APIs, and Generative AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Connect With Me
+
+<img src="UmaMerchant_QR_ConnectLinks.png" width="400"/>
+
+🔗 [LinkedIn](https://www.linkedin.com/in/uma-merchant-7a516415b)  
+💻 [GitHub](https://github.com/UmaMerchant)
+
+---
+
+**Featured Projects**
+- 🍽️ [Foodie App](#) – Full Stack food delivery app with Razorpay integration
+- 🥛 [Dairy Delight](#) – E-commerce dairy platform using JSON server
